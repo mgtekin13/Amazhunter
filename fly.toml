@@ -1,0 +1,5 @@
+app = "amazhunter"
+
+[build]
+
+[env]
