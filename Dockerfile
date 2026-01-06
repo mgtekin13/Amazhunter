@@ -11,5 +11,4 @@ COPY Amazonbot.py .
 # Gereksinimleri yükle
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Botu sürekli çalıştır
-CMD ["python3", "Amazonbot.py"]
+CMD ["python", "Amazonbot.py"]

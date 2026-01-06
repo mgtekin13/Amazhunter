@@ -1,2 +1,4 @@
-requests
+cloudscraper
 beautifulsoup4
+lxml
+requests
